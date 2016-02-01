@@ -10,4 +10,6 @@ WORKDIR /src
 COPY ./default.conf /etc/nginx/conf.d/
 COPY ./start.sh /usr/local/bin/start.sh
 
+RUN chmod +x /usr/local/bin/start.sh
+
 CMD ["/usr/local/bin/start.sh"]

@@ -2,6 +2,8 @@
 
 - [`1.9.9-2` (_Dockerfile_)](https://github.com/mageinferno/docker-magento2-nginx/tree/1.9.9-2/Dockerfile)
 
+[![](https://images.microbadger.com/badges/image/catataw/docker-opencart-nginx.svg)](https://microbadger.com/images/catataw/docker-opencart-nginx "Get your own image badge on microbadger.com")
+
 # Description
 
 This image is built from [`nginx`](https://hub.docker.com/_/nginx/) and contains the default webserver configuration for OpenCart 2.0.
